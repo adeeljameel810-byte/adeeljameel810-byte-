@@ -1,38 +1,56 @@
-<h1 align="center">Hi 👋, I'm Jameel Ahmed Khuhro</h1>
-<h3 align="center">A enthusiastic software Engineering Student eager to learn and Grow.</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jameel Ahmed Khuhro
+============================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeeljameel810-byte&label=Profile%20views&color=0e75b6&style=flat" alt="adeeljameel810-byte" /> </p>
+A Software Engineering Student eager to learn and Grow
+------------------------------------------------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeeljameel810-byte" alt="adeeljameel810-byte" /></a> </p>
+I am currently working on C++ practice problems .
 
-- 🔭 I’m currently working on **C++ practice problems**
+I am currently learning C++ programming, Problem Solving and also Canva Design Basics.
 
-- 🌱 I’m currently learning **C++ programming, problem-solving, and also Canva design basics**
+👯 I’m looking to collaborate on Beginner-friendly open-source Projects.
 
-- 👯 I’m looking to collaborate on **Beginner-friendly open-source Projects.**
+🤝 I’m looking for help with learning advanced programming and project building
 
-- 🤝 I’m looking for help with **learning advanced programming and project building**
+📝 I regularly write articles on : \[Not yet but planning to start soon\](Not yet but planning to start soon)
 
-- 📝 I regularly write articles on [Not yet but planning to start soon](Not yet but planning to start soon)
+💬 Ask me about C++ basics, simple programming logic, and canva designing.
 
-- 💬 Ask me about **C++ basics, simple programming logic, and canva designing.**
+⚡ Fun fact I enjoy solving simple coding puzzles for fun.
 
-- 📫 How to reach me **adeeljameel810@gmail.com**
+* 🌍  I'm based in Pakistan
+* ✉️  You can contact me at [adeeljameel810@gmail.com](mailto:adeeljameel810@gmail.com)
+* 🧠  I'm currently learning C++
+* 👥  I'm looking to collaborate on Simple Projects of C++ and designing also
+* 💬  Ask me about I'm excited to work on larger Projects
 
-- ⚡ Fun fact **I enjoy solving simple coding puzzles for fun.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jameel ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jameel ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/jameel khuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jameel khuhro" height="30" width="40" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+### Socials
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeeljameel810-byte&show_icons=true&locale=en&layout=compact" alt="adeeljameel810-byte" /></p>
+<p align="left"> <a href="https://www.github.com/adeeljameel810-byte" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Jameel Ahmed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/Jameel Khuhro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<a href="https://www.github.com/adeeljameel810-byte" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adeeljameel810-byte?logo=github&style=for-the-badge&color=0f172a&labelColor=1c1917" /></a>
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeeljameel810-byte&show_icons=true&locale=en" alt="adeeljameel810-byte" /></p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/adeeljameel810-byte"><img src="https://github-readme-stats.vercel.app/api?username=adeeljameel810-byte&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&show_icons=true" alt="adeeljameel810-byte's GitHub stats" /></a>
+
+<a href="http://www.github.com/adeeljameel810-byte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeljameel810-byte&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/adeeljameel810-byte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeljameel810-byte&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+
 
 [![An image of @jameel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jameel)](https://holopin.io/@jameel)
 
