@@ -34,3 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeeljameel810-byte&show_icons=true&locale=en" alt="adeeljameel810-byte" /></p>
 
+[![An image of @jameel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jameel)](https://holopin.io/@jameel)
+
